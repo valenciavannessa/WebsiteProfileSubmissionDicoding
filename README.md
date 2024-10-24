@@ -4,7 +4,7 @@ This is a simple personal profile website built using HTML, CSS, and JavaScript,
 **Tech Stack:**
 - HTML – For the structure of the webpage.
 - CSS – For styling and layout design, including animations and responsive grids.
-- JavaScript – For adding interactive elements like smooth scrolling and form validation.
+- JavaScript – For adding interactive elements like accordion.
 
 **Project Highlights:**
 - Responsive Web Design: The site is fully responsive, ensuring a smooth experience on all devices.
